@@ -23,8 +23,8 @@ Utilizo este perfil para compartilhar meus estudos e projetos práticos.
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuUserGitHub&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUserGitHub&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielOliveir4b&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielOliveir4&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -57,13 +57,13 @@ Utilizo este perfil para compartilhar meus estudos e projetos práticos.
 ### 🌐 Onde me encontrar
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seulinkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/daniel-branco-20035a281/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:seuemail@gmail.com" target="_blank">
+  <a href="danielbranco333@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/SeuUserGitHub" target="_blank">
+  <a href="https://github.com/DanilOliveir4" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
