@@ -22,7 +22,7 @@
 ### 🚀 Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por **tecnologia, desenvolvimento full stack e Business Intelligence**.  
-Tenho experiência com **Java**, **React**, **Python**, **JavaScript**, **SQL Server** e **MySQL**.  
+Tenho experiência com **Java**, **React Native**, **Python**, **JavaScript**, **SQL Server** e **MySQL**.  
 Aqui compartilho meus **estudos, projetos e aprendizados práticos** da minha jornada como desenvolvedor.
 
 ---
