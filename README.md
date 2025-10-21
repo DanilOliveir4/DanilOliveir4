@@ -1,21 +1,49 @@
-<!-- Banner -->
+<!-- Banner principal -->
 <h1 align="center">👋 Olá, eu sou o Daniel Branco</h1>
-<h3 align="center">💻 Desenvolvedor em constante evolução | 🎯 Java • React Native • BI</h3>
+<h3 align="center">💻 Desenvolvedor em constante evolução | 🎯 Java • React • Python • SQL</h3>
+
+---
+
+<!-- Blocos coloridos clicáveis -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniel-branco-20035a281/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:danielbranco333@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/DanielOliveir4" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
 ### 🚀 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **desenvolvimento full stack e Business Intelligence**.  
-Tenho conhecimento intermediário em **Java**, **HTML**, **CSS**, **JavaScript** e **React Native**, além de experiência com **Python (básico)**, **MySQL** e **SQL Server**.  
-Utilizo este perfil para compartilhar meus estudos e projetos práticos.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por **tecnologia, desenvolvimento full stack e Business Intelligence**.  
+Tenho experiência com **Java**, **React**, **Python**, **JavaScript**, **SQL Server** e **MySQL**.  
+Aqui compartilho meus **estudos, projetos e aprendizados práticos** da minha jornada como desenvolvedor.
 
 ---
 
 ### ⚙️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,python,mysql,sqlite,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,react,js,python,mysql,sqlite,git,github,vscode" />
+</p>
+
+---
+
+### 🌟 Linguagens e Frameworks Favoritos
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 ---
@@ -29,44 +57,10 @@ Utilizo este perfil para compartilhar meus estudos e projetos práticos.
 
 ---
 
-### 🌟 Linguagens e Frameworks Favoritos
+### 🚧 Projetos (em desenvolvimento)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-</p>
-
----
-
-### 🔥 Projetos em Destaque
-
-| 🚧 Projeto | 💬 Descrição | 🧰 Tecnologias |
-|-------------|---------------|----------------|
-| [📱 **ToDo Mobile**](#) | Aplicativo simples de lista de tarefas. | React Native, JS |
-| [💡 **Sistema de Cadastro**](#) | CRUD completo com autenticação. | Java, MySQL |
-| [📊 **Dashboard de Vendas**](#) | Visualização de dados e métricas. | Power BI, SQL Server |
-
----
-
-### 🌐 Onde me encontrar
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/daniel-branco-20035a281/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="danielbranco333@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/DanilOliveir4" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+📌 *Em breve compartilharei aqui meus primeiros projetos práticos com Java, React e BI.*  
+Fique à vontade para acompanhar a evolução! 🚀  
 
 ---
 
