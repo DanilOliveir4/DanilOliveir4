@@ -23,7 +23,7 @@ Utilizo este perfil para compartilhar meus estudos e projetos práticos.
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielOliveir4b&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielOliveir4&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielOliveir4&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
