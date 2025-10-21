@@ -1,6 +1,6 @@
 <!-- Banner principal -->
 <h1 align="center">👋 Olá, eu sou o Daniel Branco</h1>
-<h3 align="center">💻 Desenvolvedor em constante evolução | 🎯 Java • React • Python • SQL</h3>
+<h3 align="center">💻 Desenvolvedor em constante evolução | 🎯 Java • React Native • Python • SQL</h3>
 
 ---
 
